@@ -1,0 +1,23 @@
+.deletepost{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    width: 60px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 10%;
+    -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+    box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+     cursor: pointer;
+}
+
+/* .btn{
+    background-color: none;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+} */

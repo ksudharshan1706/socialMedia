@@ -1,0 +1,16 @@
+.comment{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.scroller{
+    overflow: auto;
+}
+.commentImg{
+    margin-top: 20px;
+    width: 100%;
+    height: 200px;
+    max-height: 500px;
+    object-fit: contain;
+}
